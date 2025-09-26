@@ -1,0 +1,9 @@
+Nro,Obs,Estado,ClienteNombre,ClienteDireccion,ClienteTelefono,ClienteDatosReferencia
+1,"Pedido urgente de pizzas",true,Juan Perez,"Av. Siempre Viva 742",1134567890,"Frente a la plaza"
+2,"Entrega programada para mañana",false,Ana Gómez,"Calle Falsa 123",1145678901,"Casa color verde"
+3,"Cliente pide cambio de dirección",true,Carlos López,"Ruta 8 km 45",1156789012,"Portón negro"
+4,"Entregar después de las 18hs",false,María Fernández,"San Martín 560",1167890123,"Depto B, 2° piso"
+5,"Pago en efectivo",true,Roberto Díaz,"Belgrano 220",1178901234,"Al lado de la panadería"
+6,"Cliente solicita factura A",false,Laura Torres,"Mitre 800",1189012345,"Frente a la estación"
+7,"Pedido grande para evento",true,Pedro Sánchez,"Italia 305",1190123456,"Esquina con Rivadavia"
+8,"Confirmar antes de entregar",false,Sofía Morales,"Lavalle 1200",1201234567,"Puerta blanca"

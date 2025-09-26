@@ -1,0 +1,20 @@
+[
+    {
+      "Id": 1,
+      "nombre": "Carlos Ruiz",
+      "direccion": "San Martín 100",
+      "telefono": 111111
+    },
+    {
+      "Id": 2,
+      "nombre": "José Fernández",
+      "direccion": "Belgrano 200",
+      "telefono": 222222
+    },
+    {
+      "Id": 3,
+      "nombre": "Ana Gómez",
+      "direccion": "Mitre 300",
+      "telefono": 333333
+    }
+  ]

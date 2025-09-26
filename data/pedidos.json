@@ -1,0 +1,38 @@
+[
+    {
+      "Estado": true,
+      "Cliente": {
+        "Nombre": "Juan Perez",
+        "Direccion": "Calle Falsa 123",
+        "Telefono": 123456,
+        "DatosDeReferenciaDireccion": "Casa roja con porton"
+      },
+      "Nro": 1,
+      "Obs": "Entrega urgente",
+      "CadeteAsignado": null
+    },
+    {
+      "Estado": false,
+      "Cliente": {
+        "Nombre": "Marta Lopez",
+        "Direccion": "Av. Siempre Viva 742",
+        "Telefono": 654321,
+        "DatosDeReferenciaDireccion": "Edificio azul, depto 3B"
+      },
+      "Nro": 2,
+      "Obs": "Entrega normal",
+      "CadeteAsignado": null
+    },
+    {
+      "Estado": true,
+      "Cliente": {
+        "Nombre": "Diego",
+        "Direccion": "sdfewrewr",
+        "Telefono": 5000,
+        "DatosDeReferenciaDireccion": "dgfdf"
+      },
+      "Nro": 15,
+      "Obs": "string015",
+      "CadeteAsignado": null
+    }
+  ]
